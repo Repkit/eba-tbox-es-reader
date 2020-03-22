@@ -1,5 +1,5 @@
 {
-    "name": "abe-libraries/es-reader",
+    "name": "eba-libraries/es-reader",
     "description": "Elastic search reader with eba filter support",
     "type": "package",
     "require": {
