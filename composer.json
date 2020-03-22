@@ -1,5 +1,5 @@
 {
-    "name": "trip-libraries/es-reader",
+    "name": "abe-libraries/es-reader",
     "description": "Elastic search reader with eba filter support",
     "type": "package",
     "require": {
